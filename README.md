@@ -1,4 +1,4 @@
-👩‍💻 Software Engineer | IT Planet Winner | WorldSkills Participant
+# 👩‍💻 Software Engineer | IT Planet Winner | WorldSkills Participant
 
 🎓 Graduated in 2024 from MIREA - Russian Technological University with a degree in Computer Science.
 
