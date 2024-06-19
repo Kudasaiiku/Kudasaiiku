@@ -4,6 +4,6 @@
 
 🏆 First place winner at IT Planet international competition with "MosVozmozhnosti" project in Unlimited Possibilities: Interaction category.
 
-🛠️ Successfully demonstrated skills at WorldSkills with a 74% score and obtained a digital skills passport.
+🛠️ Successfully demonstrated skills at WorldSkills exam with a 74% score and obtained a digital skills passport.
 
 🔗 Explore my projects pinned below or visit my repositories for examples of my work!
